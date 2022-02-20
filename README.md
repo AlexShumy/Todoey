@@ -4,8 +4,8 @@ A fun todolist app to keep track of all your tasks
 
 ## Features
 
-* Table view
-* Saving data in iOS
+* Table views, UITableViewControllers
+* Saving data in iOS fundamentals
 * UserDefaults, Core Data and Realm
 * Swipe gesture functionality using SwipeCellKit 
 
