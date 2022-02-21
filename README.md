@@ -7,7 +7,8 @@ A fun todolist app to keep track of all your tasks
 * Table views, UITableViewControllers
 * Saving data in iOS fundamentals
 * UserDefaults, Core Data and Realm
-* Swipe gesture functionality using SwipeCellKit 
+* Swipe gesture functionality using SwipeCellKit
+* Gradient flow cells
 
 
 
